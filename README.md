@@ -1,0 +1,13 @@
+### Hi there, I'm Abdelrahman Mostafa 👋
+- 👀 I’m interested in FULL STACK / Mobile Development  ...
+- 🌱 I’m currently learning  #vue #react #typescripts 📱 #GameDev 🎮 #blockchain ⛓️...
+- 👯 I’m looking to collaborate on anything related to native ios/ android, Typescript, Dart, Flutter, ...
+- 💬 Ask me about #swift, #kotlin, #dart, #arduino, #C, #java, #web
+- 📫 How to reach me https://www.linkedin.com/in/abdelrahman-mostafa21 ...
+- 🕵️‍♂️ You can almost find me anywhere on internet by abdelrahmanmostafa21 as a username.
+
+
+<!---
+abdelrahmanmostafa21/abdelrahmanmostafa21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
